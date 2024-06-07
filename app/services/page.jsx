@@ -8,25 +8,25 @@ const services =[
         num:'01',
         title:'Web Development',
         description:
-            'wdnkandkn asakdnaknd adkand',
+            'pending',
         href:""
     },
     {
         num:'02',
         title:'UI/UX Design',
-        description:'wdnkandkn asakdnaknd adkand',
+        description:'pending',
         href:""
     },
     {
         num:'03',
         title:'Logo Design',
-        description:'wdnkandkn asakdnaknd adkand',
+        description:'pending',
         href:""
     },
     {
         num:'04',
         title:'SEO',
-        description:'wdnkandkn asakdnaknd adkand',
+        description:'pending',
         href:""
     },
 ];

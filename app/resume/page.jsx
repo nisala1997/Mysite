@@ -33,7 +33,7 @@ const about={
         },
         {
             fieldName:"Nationality",
-            fieldValue:"Srilanka"
+            fieldValue:"Srilanka",
         },
         {
             fieldName:"Email",
@@ -54,7 +54,7 @@ const experience={
     icon:"/assets/resume/badge.svg",
     title:"My experience",
     description:
-        "asbhdhhu ashuahan ahias",
+        "...",
     items:[
         {
             company:"Tech Solution Inc.",
@@ -93,7 +93,7 @@ const education={
     icon:"/assets/resume/cap.svg",
     title:"My education",
     description:
-        "asbhdhhu ashuahan ahias",
+        "...",
     items:[
         {
            institution:"Online course platform",
@@ -131,7 +131,7 @@ const education={
 const skills={
     title:"My skills",
     description:
-        "asnjssi sshui qssja ",
+        "Skilled web developer with expertise in HTML, CSS, JavaScript, and frameworks like React and Angular. ",
     skillList:[
         {
             icon:<FaHtml5/>,
