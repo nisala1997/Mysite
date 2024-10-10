@@ -19,21 +19,20 @@ import WorkSliderBtns from "@/components/WorkSliderBtns";
 const projects = [
     {
         num:"01",
-        category:"frontend",
+        category:"Full-Stack ",
         title:"project 1",
-        description:
-            "ssnck adnka admnka",
-        stack:[{name:"Html 5"},{name:"Css 3"},{name:"Javascript"}],
+        description:"The platform allows users to browse furniture collections, filter products by category, and manage their shopping cart. Admins can add, update, and delete products, while users can create accounts and place orders. The system also includes a secure payment gateway integration and user authentication.",
+        stack:[{name:"Django"},{name:"React"},{name:"MongoDM"}],
         Image:"/assets/work/thumb1.png",
         live:"",
         github:"",
     },
     {
         num:"02",
-        category:"fullstack",
+        category:"Full-Stack",
         title:"project 2",
         description:
-            "ssnck adnka admnka",
+            "The platform allows users to browse, search, and purchase furniture products. Key features include a product catalog with detailed descriptions and images, a shopping cart, secure checkout with payment integration, and user authentication for account management.",
         stack:[{name:"Next.js"},{name:"Tailwind.css"},{name:"Node.js"}],
         Image:"/assets/work/thumb2.png",
         live:"",
@@ -41,10 +40,10 @@ const projects = [
     },
     {
         num:"03",
-        category:"frontend",
+        category:"Full-Stack",
         title:"project 3",
         description:
-            "ssnck adnka admnka",
+            "This project is a fullstack web application designed for photographers to showcase their work and attract potential clients. ",
         stack:[{name:"Next.js"},{name:"Tailwind.css"}],
         Image:"/assets/work/thumb3.png",
         live:"",
@@ -149,3 +148,5 @@ const Work =()=>{
 };
 
 export default Work;
+
+

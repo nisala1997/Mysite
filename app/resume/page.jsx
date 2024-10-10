@@ -96,34 +96,34 @@ const education={
         "...",
     items:[
         {
-           institution:"Online course platform",
-           degree:"Full Stack Web Development Bootcamp",
-           duration:"2023", 
+           institution:"University of Peradeniya",
+           degree:"B.Sc. Honours Degree in Applied Sciences",
+           duration:"2020-2024", 
         },
         {
-            institution:"Codecademy",
-            degree:"Full Stack Web Development Bootcamp",
-            duration:"2023", 
+            institution:"Coursera",
+            degree:"Django for Everybody",
+            duration:"2024", 
          },
          {
-            institution:"Online Course",
-            degree:"Programming Course",
-            duration:"2020-2021", 
+            institution:"Coursera",
+            degree:"External APIs and Task Queuing",
+            duration:"2024", 
          },
          {
-            institution:"Tech Institute",
-            degree:"Full Stack Web Development Bootcamp",
-            duration:"2023", 
+            institution:"Coursera",
+            degree:"Advanced Django Rest Framework",
+            duration:"2024", 
          },
          {
-            institution:"School",
-            degree:"Full Stack Web Development Bootcamp",
-            duration:"2023", 
+            institution:"Coursera",
+            degree:"Advanced Learning Algorithms",
+            duration:"2024", 
          },
          {
-            institution:"Community Collage",
-            degree:"Full Stack Web Development Bootcamp",
-            duration:"2023", 
+            institution:"Coursera",
+            degree:"Convolutional Neural Networks",
+            duration:"2024", 
          },
     ]
 };
