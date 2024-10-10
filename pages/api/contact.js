@@ -19,7 +19,7 @@ export default async function handler(req, res) {
     // Define email options
     const mailOptions = {
       from: email, // From the user's email
-      to: 'your-email@example.com', // Your email address to receive the contact form
+      to: 'www.nisalanimesh12@gmail.com', // Your email address to receive the contact form
       subject: 'New Contact Form Submission',
       text: `
         First Name: ${firstname}
